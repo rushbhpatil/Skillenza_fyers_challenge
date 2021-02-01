@@ -1,7 +1,7 @@
 # Skillenza_fyers_challenge
 
 # Run this python code on Google colab
-<a href="https://colab.research.google.com/drive/19FU1Vu48uo3V0N9OUeaxQeRM2rR0sfLR?authuser=1#scrollTo=lmw93J3nCrTZ"> Google colab </a>
+<a href="https://colab.research.google.com/drive/19FU1Vu48uo3V0N9OUeaxQeRM2rR0sfLR?usp=sharing"> Google colab </a>
 
 # Challenge :
 ### Use Python to perform below <br />
